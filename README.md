@@ -1,2 +1,2 @@
 # uml-distilled
-UML精粹学习笔记
+UML精粹（学习笔记）
